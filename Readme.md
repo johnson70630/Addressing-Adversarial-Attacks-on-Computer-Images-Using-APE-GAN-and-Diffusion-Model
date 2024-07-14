@@ -8,4 +8,4 @@ poster session video: https://www.youtube.com/watch?v=1pyfJ1MkRGo&t=57s
 public code & poster: https://drive.google.com/drive/folders/1fkCfwQb_DT3DPH6-osgNwtI0ifQ6pasz
 
 ## Supplements
-- [Diffusion mode with U-net](diffusion-model-with-U-net/): the [diffision_U_net.ipynb](diffusion-model-with-U-net/diffusion_U_net.ipynb) demonstrated the code of diffusion mode with U-net and the [Readme.md](diffusion-model-with-U-net/Readme.md) shows the description of diffusion mode with U-net.
+- [Diffusion mode with U-net](diffusion_model_with_U-net): the [diffision_U_net.ipynb](diffusion_model_with_U-net/diffusion_U_net.ipynb) demonstrated the code of diffusion mode with U-net and the [Readme.md](diffusion_model_with_U-net/Readme.md) shows the description of diffusion mode with U-net.
